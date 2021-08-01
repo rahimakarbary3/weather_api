@@ -1,0 +1,10 @@
+db.sqlite3
+*.pyc
+*.ipynb
+*pyw
+venv
+.vscode
+.cache
+*.json
+.pytest_cache
+.python-version
